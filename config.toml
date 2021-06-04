@@ -1,3 +1,87 @@
 baseURL = "https://amrproj.github.io/"
 languageCode = "ja-JP"
 title = "Android Malware Research Project"
+theme = "mainroad"
+publishDir = "docs" # Where to output the build
+disqusShortname = "" # Enable comments by entering your Disqus shortname
+googleAnalytics = "" # Enable Google Analytics by entering your tracking id
+hasCJKLanguage = true
+
+[Author]
+  name = "amrp"
+  bio = "Computer and Security Engineer."
+  avatar = "img/amrp_s.png"
+
+[Params]
+  description = "Android Malware Research Project" # Description of your site
+  opengraph = true
+  twitter_cards = true
+  title = "Android Malware Research Project" # for twitter cerd (og:site_name)
+  images = ["img/amrp_s.png"]
+  readmore = false # Show "Read more" button in list if true
+  authorbox = false
+  pager = true
+  dateformat = "2006.01.02 15:04:05" # Change the format of dates
+  post_meta = ["date", "categories"] # Order of post meta information
+  mainSections = ["news"]
+  highlightColor = "#00a956"
+  customCSS = ["/css/custom.css","/css/all.min.css","/css/fontawesome.min.css","/css/blands.min.css","/css/solid.min.css"]
+
+[Params.logo]
+  image = "img/amrp_s.png" # Logo image. Path relative to "static"
+  title = "Android Malware Research Project" # Logo title, otherwise will use site title
+  subtitle = "for android security" # Logo subtitle
+
+[Params.sidebar]
+  home = false   # Configure layout for home page
+  list = "right"   # Configure layout for list pages
+  single = "right" # Configure layout for single pages
+  # Enable widgets in given order
+  widgets = ["search", "recent", "categories", "taglist", "social"]
+
+[Params.widgets]
+  recent_num = 5 # Set the number of articles in the "Recent articles" widget
+  tags_counter = false # Enable counter for each tag in "Tags" widget (disabled by default)
+
+[Params.widgets.social]
+  # Enable parts of social widget
+  #   facebook = "username"
+  twitter = "AMRProject"
+  #   instagram = "username"
+  #   linkedin = "username"
+  #   telegram = "username"
+  github = "amrproj"
+  #   gitlab = "username"
+  #   bitbucket = "username"
+
+[menu]
+    [[menu.main]]
+        identifier = ""
+        name = "HOME"
+        url = "/"
+        weight = 1
+    [[menu.main]]
+        identifier = "news"
+        name = "NEWS"
+        url = "/news"
+        weight = 2
+    [[menu.main]]
+        identifier = "report"
+        name = "REPORT"
+        url = "/report/list"
+        weight = 3
+    [[menu.main]]
+        identifier = "malware"
+        name = "MALWARE DB"
+        url = "/malwaredb"
+        weight = 4
+    [[menu.main]]
+        identifier = "about"
+        name = "ABOUT"
+        url = "/about"
+        weight = 90
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
