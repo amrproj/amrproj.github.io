@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Android Malware Research Project</title>
+    <link>https://amrproj.github.io/</link>
+    <description>Recent content in Home on Android Malware Research Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Mon, 31 May 2021 10:52:40 +0900</lastBuildDate><atom:link href="https://amrproj.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Report</title>
+      <link>https://amrproj.github.io/report/list/</link>
+      <pubDate>Wed, 02 Jun 2021 14:01:11 +0900</pubDate>
+      
+      <guid>https://amrproj.github.io/report/list/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
