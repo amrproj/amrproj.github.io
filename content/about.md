@@ -11,7 +11,7 @@ pager: false
 sidebar: false
 thumbnail: 
 images: []
-draft: true
+draft: false
 ---
 
 ## Android Malware Research Project (AMRProject) とは

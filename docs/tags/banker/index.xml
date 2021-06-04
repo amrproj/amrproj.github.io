@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Malware on Android Malware Research Project</title>
-    <link>https://amrproj.github.io/malwaredb/</link>
-    <description>Recent content in Malware on Android Malware Research Project</description>
+    <title>Banker on Android Malware Research Project</title>
+    <link>https://amrproj.github.io/tags/banker/</link>
+    <description>Recent content in Banker on Android Malware Research Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 03 Jun 2021 23:38:32 +0900</lastBuildDate><atom:link href="https://amrproj.github.io/malwaredb/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://amrproj.github.io/tags/banker/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>29e99eee9d17e2bdb604ac3cc0f20d6dc4be8d98f071870f7c8913b3c44ed0bc</title>
       <link>https://amrproj.github.io/malwaredb/29e99eee9d17e2bdb604ac3cc0f20d6dc4be8d98f071870f7c8913b3c44ed0bc/</link>

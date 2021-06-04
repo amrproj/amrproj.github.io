@@ -8,12 +8,39 @@
     <language>ja-JP</language>
     <lastBuildDate>Mon, 31 May 2021 10:52:40 +0900</lastBuildDate><atom:link href="https://amrproj.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Android Malware Research Projectについて</title>
+      <link>https://amrproj.github.io/news/2021/06/04/</link>
+      <pubDate>Fri, 04 Jun 2021 15:47:07 +0900</pubDate>
+      
+      <guid>https://amrproj.github.io/news/2021/06/04/</guid>
+      <description>このプロジェクトは今からさかのぼること8年前に別のサイトで運営していたものを、新たに再構築したものです。 2011年10月、今から約10年前。</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://amrproj.github.io/about/</link>
+      <pubDate>Fri, 04 Jun 2021 14:37:44 +0900</pubDate>
+      
+      <guid>https://amrproj.github.io/about/</guid>
+      <description>Android Malware Research Project (AMRProject) とは AMRProjectは、Androidプラットフォームのセキュリティに関連する調査・研究を行い、Androidプラットフォーム</description>
+    </item>
+    
+    <item>
       <title>Report</title>
       <link>https://amrproj.github.io/report/list/</link>
       <pubDate>Wed, 02 Jun 2021 14:01:11 +0900</pubDate>
       
       <guid>https://amrproj.github.io/report/list/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>29e99eee9d17e2bdb604ac3cc0f20d6dc4be8d98f071870f7c8913b3c44ed0bc</title>
+      <link>https://amrproj.github.io/malwaredb/29e99eee9d17e2bdb604ac3cc0f20d6dc4be8d98f071870f7c8913b3c44ed0bc/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://amrproj.github.io/malwaredb/29e99eee9d17e2bdb604ac3cc0f20d6dc4be8d98f071870f7c8913b3c44ed0bc/</guid>
+      <description>Analyze Report  Virustotal Koodous  Othoer C2: hxxp://213.136.90.194/gate.php</description>
     </item>
     
   </channel>

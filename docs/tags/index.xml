@@ -5,6 +5,25 @@
     <link>https://amrproj.github.io/tags/</link>
     <description>Recent content in Tags on Android Malware Research Project</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ja-JP</language><atom:link href="https://amrproj.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>ja-JP</language>
+    <lastBuildDate>Fri, 04 Jun 2021 15:47:07 +0900</lastBuildDate><atom:link href="https://amrproj.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>運営</title>
+      <link>https://amrproj.github.io/tags/%E9%81%8B%E5%96%B6/</link>
+      <pubDate>Fri, 04 Jun 2021 15:47:07 +0900</pubDate>
+      
+      <guid>https://amrproj.github.io/tags/%E9%81%8B%E5%96%B6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Banker</title>
+      <link>https://amrproj.github.io/tags/banker/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://amrproj.github.io/tags/banker/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

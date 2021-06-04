@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News on Android Malware Research Project</title>
+    <link>https://amrproj.github.io/news/</link>
+    <description>Recent content in News on Android Malware Research Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Fri, 04 Jun 2021 15:47:07 +0900</lastBuildDate><atom:link href="https://amrproj.github.io/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Android Malware Research Projectについて</title>
+      <link>https://amrproj.github.io/news/2021/06/04/</link>
+      <pubDate>Fri, 04 Jun 2021 15:47:07 +0900</pubDate>
+      
+      <guid>https://amrproj.github.io/news/2021/06/04/</guid>
+      <description>このプロジェクトは今からさかのぼること8年前に別のサイトで運営していたものを、新たに再構築したものです。 2011年10月、今から約10年前。</description>
+    </item>
+    
+  </channel>
+</rss>
