@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Boogr on Android Malware Research Project</title>
+    <link>https://amrproj.github.io/tags/boogr/</link>
+    <description>Recent content in Boogr on Android Malware Research Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://amrproj.github.io/tags/boogr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>913724315d80ebb1057dbdb2bf5e808a957dc76e52a6f01f0f932966c229ce20</title>
+      <link>https://amrproj.github.io/malwaredb/913724315d80ebb1057dbdb2bf5e808a957dc76e52a6f01f0f932966c229ce20/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://amrproj.github.io/malwaredb/913724315d80ebb1057dbdb2bf5e808a957dc76e52a6f01f0f932966c229ce20/</guid>
+      <description>Analyze Report Virustotal Koodous Othoer</description>
+    </item>
+    
+  </channel>
+</rss>
