@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Triada on Android Malware Research Project</title>
+    <link>https://amrproj.github.io/tags/triada/</link>
+    <description>Recent content in Triada on Android Malware Research Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Mon, 07 Jun 2021 18:16:02 +0900</lastBuildDate><atom:link href="https://amrproj.github.io/tags/triada/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>c3c3550938850cb8571e7ea69158559fd859f81e5640a2706284148ceee4ae97</title>
+      <link>https://amrproj.github.io/malwaredb/c3c3550938850cb8571e7ea69158559fd859f81e5640a2706284148ceee4ae97/</link>
+      <pubDate>Mon, 07 Jun 2021 18:16:02 +0900</pubDate>
+      
+      <guid>https://amrproj.github.io/malwaredb/c3c3550938850cb8571e7ea69158559fd859f81e5640a2706284148ceee4ae97/</guid>
+      <description>Analyze Report  Virustotal Koodous  Othoer </description>
+    </item>
+    
+  </channel>
+</rss>
