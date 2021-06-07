@@ -6,7 +6,7 @@
     <description>Recent content in Hqwar on Android Malware Research Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://amrproj.github.io/tags/hqwar/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 07 Jun 2021 21:14:28 +0900</lastBuildDate><atom:link href="https://amrproj.github.io/tags/hqwar/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>e5db248355b4a16373ae6f7043ecff59751dcd89e9b5cc6a92022ec4b8b06467</title>
       <link>https://amrproj.github.io/malwaredb/e5db248355b4a16373ae6f7043ecff59751dcd89e9b5cc6a92022ec4b8b06467/</link>
@@ -58,6 +58,15 @@
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>https://amrproj.github.io/malwaredb/3f92de4c765321d0d022a607266351cea4de1929a5eceae07b3d76b5d606716c/</guid>
+      <description>Analyze Report  Virustotal Koodous  Othoer </description>
+    </item>
+    
+    <item>
+      <title>3284a3aa7302b6a618d2c0725c17de4ce48d47cb7e155cc3ae75e6e10dda2d44</title>
+      <link>https://amrproj.github.io/malwaredb/3284a3aa7302b6a618d2c0725c17de4ce48d47cb7e155cc3ae75e6e10dda2d44/</link>
+      <pubDate>Mon, 07 Jun 2021 21:14:28 +0900</pubDate>
+      
+      <guid>https://amrproj.github.io/malwaredb/3284a3aa7302b6a618d2c0725c17de4ce48d47cb7e155cc3ae75e6e10dda2d44/</guid>
       <description>Analyze Report  Virustotal Koodous  Othoer </description>
     </item>
     
