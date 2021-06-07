@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Android Malware Research Project</title>
-    <link>https://amrproj.github.io/</link>
-    <description>Recent content in Home on Android Malware Research Project</description>
+    <title>BankBot on Android Malware Research Project</title>
+    <link>https://amrproj.github.io/tags/bankbot/</link>
+    <description>Recent content in BankBot on Android Malware Research Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 31 May 2021 10:52:40 +0900</lastBuildDate><atom:link href="https://amrproj.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://amrproj.github.io/tags/bankbot/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>29e99eee9d17e2bdb604ac3cc0f20d6dc4be8d98f071870f7c8913b3c44ed0bc</title>
       <link>https://amrproj.github.io/malwaredb/29e99eee9d17e2bdb604ac3cc0f20d6dc4be8d98f071870f7c8913b3c44ed0bc/</link>
@@ -32,33 +32,6 @@
       
       <guid>https://amrproj.github.io/malwaredb/a7034a968839fb688319afad984c75ca1dd0c0ca918769ee7b7fbaa584d3b8eb/</guid>
       <description>Analyze Report  Virustotal Koodous  Othoer </description>
-    </item>
-    
-    <item>
-      <title>Android Malware Research Projectについて</title>
-      <link>https://amrproj.github.io/news/2021/06/04/</link>
-      <pubDate>Fri, 04 Jun 2021 15:47:07 +0900</pubDate>
-      
-      <guid>https://amrproj.github.io/news/2021/06/04/</guid>
-      <description>このプロジェクトは今からさかのぼること8年前に別のサイトで運営していたものを、新たに再構築したものです。 2011年10月、今から約10年前。</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://amrproj.github.io/about/</link>
-      <pubDate>Fri, 04 Jun 2021 14:37:44 +0900</pubDate>
-      
-      <guid>https://amrproj.github.io/about/</guid>
-      <description>Android Malware Research Project (AMRProject) とは AMRProjectは、Androidプラットフォームのセキュリティに関連する調査・研究を行い、Androidプラットフォーム</description>
-    </item>
-    
-    <item>
-      <title>Report</title>
-      <link>https://amrproj.github.io/report/list/</link>
-      <pubDate>Wed, 02 Jun 2021 14:01:11 +0900</pubDate>
-      
-      <guid>https://amrproj.github.io/report/list/</guid>
-      <description></description>
     </item>
     
   </channel>

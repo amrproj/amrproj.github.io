@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://amrproj.github.io/malwaredb/29e99eee9d17e2bdb604ac3cc0f20d6dc4be8d98f071870f7c8913b3c44ed0bc/</loc>
+    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://amrproj.github.io/malwaredb/e5db248355b4a16373ae6f7043ecff59751dcd89e9b5cc6a92022ec4b8b06467/</loc>
+    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://amrproj.github.io/malwaredb/a7034a968839fb688319afad984c75ca1dd0c0ca918769ee7b7fbaa584d3b8eb/</loc>
+    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://amrproj.github.io/news/2021/06/04/</loc>
     <lastmod>2021-06-04T15:47:07+09:00</lastmod>
   </url><url>
@@ -32,10 +41,16 @@
     <loc>https://amrproj.github.io/report/</loc>
     <lastmod>2021-06-02T14:01:11+09:00</lastmod>
   </url><url>
-    <loc>https://amrproj.github.io/malwaredb/29e99eee9d17e2bdb604ac3cc0f20d6dc4be8d98f071870f7c8913b3c44ed0bc/</loc>
+    <loc>https://amrproj.github.io/tags/bankbot/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://amrproj.github.io/tags/banker/</loc>
+    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://amrproj.github.io/tags/flubot/</loc>
+    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://amrproj.github.io/tags/hqwar/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://amrproj.github.io/</loc>
