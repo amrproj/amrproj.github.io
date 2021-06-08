@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Screen Locker on Android Malware Research Project</title>
+    <link>https://amrproj.github.io/tags/screen-locker/</link>
+    <description>Recent content in Screen Locker on Android Malware Research Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Wed, 02 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://amrproj.github.io/tags/screen-locker/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>7204038839b0b2b8b1f54cd9044a389492af2b1e079433316b61ad24601188e9</title>
+      <link>https://amrproj.github.io/malwaredb/7204038839b0b2b8b1f54cd9044a389492af2b1e079433316b61ad24601188e9/</link>
+      <pubDate>Wed, 02 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://amrproj.github.io/malwaredb/7204038839b0b2b8b1f54cd9044a389492af2b1e079433316b61ad24601188e9/</guid>
+      <description>Analyze Report  Virustotal Koodous  Othoer </description>
+    </item>
+    
+  </channel>
+</rss>
