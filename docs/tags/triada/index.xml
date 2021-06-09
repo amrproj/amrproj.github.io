@@ -6,7 +6,7 @@
     <description>Recent content in Triada on Android Malware Research Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://amrproj.github.io/tags/triada/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 03 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://amrproj.github.io/tags/triada/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>c3c3550938850cb8571e7ea69158559fd859f81e5640a2706284148ceee4ae97</title>
       <link>https://amrproj.github.io/malwaredb/c3c3550938850cb8571e7ea69158559fd859f81e5640a2706284148ceee4ae97/</link>
@@ -14,6 +14,15 @@
       
       <guid>https://amrproj.github.io/malwaredb/c3c3550938850cb8571e7ea69158559fd859f81e5640a2706284148ceee4ae97/</guid>
       <description>Analyze Report Virustotal Koodous Othoer</description>
+    </item>
+    
+    <item>
+      <title>7e64b3525eeda7b30c2a284bc83bd4b7974f388c353ff7a3bd49ab4f0a6cefe5</title>
+      <link>https://amrproj.github.io/malwaredb/7e64b3525eeda7b30c2a284bc83bd4b7974f388c353ff7a3bd49ab4f0a6cefe5/</link>
+      <pubDate>Thu, 03 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://amrproj.github.io/malwaredb/7e64b3525eeda7b30c2a284bc83bd4b7974f388c353ff7a3bd49ab4f0a6cefe5/</guid>
+      <description>Analyze Report  Virustotal Koodous  Othoer </description>
     </item>
     
   </channel>
